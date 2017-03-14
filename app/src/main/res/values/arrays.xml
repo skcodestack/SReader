@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="news_category_list_names">
+        <!--<item>社会新闻</item>-->
+        <!--<item>国内新闻</item>-->
+        <!--<item>国际新闻</item>-->
+        <!--<item>娱乐新闻</item>-->
+        <item>体育新闻</item>
+        <item>NBA新闻</item>
+        <item>足球新闻</item>
+        <item>科技新闻</item>
+        <item>创业新闻</item>
+        <item>苹果新闻</item>
+        <item>移动互联</item>
+        <item>旅游资讯</item>
+        <item>健康知识</item>
+        <item>奇闻异事</item>
+        <item>美女图片</item>
+        <item>VR科技</item>
+        <item>IT资讯</item>
+    </array>
+    <array name="news_category_list_ids">
+        <!--<item>social</item>-->
+        <!--<item>guonei</item>-->
+        <!--<item>world</item>-->
+        <!--<item>huabian</item>-->
+        <item>tiyu</item>
+        <item>nba</item>
+        <item>football</item>
+        <item>keji</item>
+        <item>startup</item>
+        <item>apple</item>
+        <item>mobile</item>
+        <item>travel</item>
+        <item>health</item>
+        <item>qiwen</item>
+        <item>meinv</item>
+        <item>vr</item>
+        <item>it</item>
+    </array>
+
+
+    <array name="picture_category_list_names">
+        <item>性感美女</item>
+        <item>日韩美女</item>
+        <item>丝袜美腿</item>
+        <item>美女照片</item>
+        <item>美女写真</item>
+        <item>清纯美女</item>
+        <item>性感车模</item>
+    </array>
+    <array name="picture_category_list_ids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </array>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">易阅</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+
+    <string name="request_faild_msg">数据请求失败，请检查网络是否连接正常!</string>
+
+    <string name="common_loading_message">Loading...</string>
+    <string name="common_empty_msg">Oops, failed to resolve data\nPlease hit the screen and try again~</string>
+    <string name="common_error_msg">Oops, something wrong!\nPlease hit the screen and try again~</string>
+    <string name="common_no_network_msg">No network connected!\nPlease hit the screen and try again after connecting~</string>
+    <string name="common_load_more_end">没有更多数据了</string>
+</resources>

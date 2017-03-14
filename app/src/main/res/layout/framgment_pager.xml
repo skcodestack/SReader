@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/pager_content"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <com.nshmura.recyclertablayout.RecyclerTabLayout
+        android:id="@+id/tablayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="?attr/colorPrimary"
+        rtl_tabIndicatorColor="?attr/colorAccent"
+        rtl_tabIndicatorHeight="2dp"
+        rtl_tabBackground="?attr/selectableItemBackground"
+        rtl_tabTextAppearance="@style/CustomTextAppearance"
+        rtl_tabSelectedTextColor="?android:textColorPrimary"
+        rtl_tabMinWidth="72dp"
+        rtl_tabMaxWidth="264dp"
+        rtl_tabPaddingStart="12dp"
+        rtl_tabPaddingTop="0dp"
+        rtl_tabPaddingEnd="12dp"
+        rtl_tabPaddingBottom="0dp"
+        rtl_tabPadding="0dp">
+    </com.nshmura.recyclertablayout.RecyclerTabLayout>
+
+    <github.myapplicationdfd.view.XViewPager
+        android:id="@+id/xvp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </github.myapplicationdfd.view.XViewPager>
+</LinearLayout>
+</FrameLayout>
